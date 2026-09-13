@@ -1,40 +1,55 @@
-# Project-internship
-this repository contains projects I have completed during my last cybersecurity internship that focused on helping undergraduate.
-each of the project include documentations and screenshot showing my step by step to completing the projects demonstrating the work I have performed.
+# Project-Internship
 
-task 4 [Vulnerability scanning]
-*overview*
-I had identified that the main webpage of webappsecurity has a huge vulnerability of
-letting user be able to access the main admin easily gaining full access to user’s
-account, password , and most importantly their own social security number a malicious
-attacker can then use these information and especially with a social security number
-can disguise themselves and steal the customer’s identity causing legal concern and
-lawsuits.
-*Skills Demonstrated*
+This repository contains projects I completed during my cybersecurity internship. These projects focused on helping undergraduate students learn cybersecurity concepts. Each project includes documentation and screenshots showing the steps I completed and demonstrating the work I performed.
+
+---
+
+## Task 4 – Vulnerability Scanning
+
+### Overview
+
+I identified a major vulnerability within the WebAppSecurity website that allowed unauthorized access to the administrative area. This vulnerability could potentially expose sensitive user information, including account credentials and personally identifiable information. If exploited by a malicious attacker, this type of vulnerability could lead to account compromise, identity theft, and other security concerns.
+
+### Skills Demonstrated
+
 - Network reconnaissance
 - Port and service enumeration
 - Vulnerability scanning
 - Web application security testing
 - Vulnerability assessment
 - Security analysis
-*security tools used*
-- Nmap – Network and port scanning
-- Nikto – Web server vulnerability scanning
-- OWASP ZAP – Web application vulnerability assessment
-- Burp Suite – Web application security testing
-*Full documentation and screenshots are available in:*
-**Task 4 - MKCC-CS-060.pdf**
 
-Task 6 [IDS & Honeypot Security Lab]
-*overview*
-The objective of this project was to explore how a honeypot can be paired with
-the Suricata Intrusion Detection System (IDS) to detect and log suspicious
-network activity.
-*Security Tools Used*
-- Suricata – Intrusion Detection System (IDS)
-- Honeypot – Decoy system for monitoring suspicious activity
-- Virtual Machines – Attacker and target environments
-**Skills Demonstrated**
+### Security Tools Used
+
+- **Nmap** – Network and port scanning
+- **Nikto** – Web server vulnerability scanning
+- **OWASP ZAP** – Web application vulnerability assessment
+- **Burp Suite** – Web application security testing
+
+### Full Project Documentation
+
+Full documentation and screenshots are available in **Task 4 - MKCC-CS-060.pdf**
+
+---
+
+## Task 6 – IDS & Honeypot Security Lab
+
+### Overview
+
+The objective of this project was to explore how a honeypot can be paired with the Suricata Intrusion Detection System (IDS) to detect and log suspicious network activity.
+
+I successfully configured Suricata to monitor the honeypot and tested the environment using an attacking virtual machine. Suricata successfully detected and logged scanning activity directed at the honeypot.
+
+The project also required troubleshooting and configuration. After researching documentation and online resources, I was able to resolve the configuration issues and successfully get the IDS and honeypot environment working together.
+
+### Security Tools Used
+
+- **Suricata** – Intrusion Detection System (IDS)
+- **Honeypot** – Decoy system for monitoring suspicious activity
+- **Virtual Machines** – Attacker and target environments
+
+### Skills Demonstrated
+
 - Intrusion detection and monitoring
 - Honeypot configuration
 - Network traffic analysis
@@ -42,5 +57,7 @@ network activity.
 - Network reconnaissance testing
 - Virtual machine configuration
 - Troubleshooting and problem solving
-*Full documentation and screenshots are available in:*
-**Task 6 - MKCC-CS-060.pdf**
+
+### Full Project Documentation
+
+Full documentation and screenshots are available in **Task 6 - MKCC-CS-060.pdf**
