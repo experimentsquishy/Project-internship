@@ -34,7 +34,7 @@ network activity.
 - Suricata – Intrusion Detection System (IDS)
 - Honeypot – Decoy system for monitoring suspicious activity
 - Virtual Machines – Attacker and target environments
-*Skills Demonstrated*
+**Skills Demonstrated**
 - Intrusion detection and monitoring
 - Honeypot configuration
 - Network traffic analysis
