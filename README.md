@@ -22,7 +22,7 @@ lawsuits.
 - Nikto – Web server vulnerability scanning
 - OWASP ZAP – Web application vulnerability assessment
 - Burp Suite – Web application security testing
-Full documentation and screenshots are available in:
+*Full documentation and screenshots are available in:*
 **Task 4 - MKCC-CS-060.pdf**
 
 Task 6 [IDS & Honeypot Security Lab]
@@ -42,5 +42,5 @@ network activity.
 - Network reconnaissance testing
 - Virtual machine configuration
 - Troubleshooting and problem solving
-Full documentation and screenshots are available in:
+*Full documentation and screenshots are available in:*
 **Task 6 - MKCC-CS-060.pdf**
