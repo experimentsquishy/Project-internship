@@ -61,3 +61,35 @@ The project also required troubleshooting and configuration. After researching d
 ### Full Project Documentation
 
 Full documentation and screenshots are available in **Task 6 - MKCC-CS-060.pdf**
+## Task 7 – Malware Traffic Analysis & Network Forensics
+
+### Overview
+
+In this project, I analyzed network traffic associated with a malware
+infection using Wireshark. The objective was to investigate the compromised
+system and identify indicators associated with the malicious activity.
+Through packet and traffic analysis, I identified information about the
+infected host, including its IP address, MAC address, hostname, and associated
+user account. I also investigated suspicious network communications to
+identify a malicious domain and suspected command-and-control (C2) server.
+
+### Security Tools Used
+
+- **Wireshark** – Packet capture and network traffic analysis
+- **Wireshark Display Filters** – Filtering and isolating suspicious traffic
+- **TCP Stream Analysis** – Investigating communications between hosts
+
+### Skills Demonstrated
+
+- Malware traffic analysis
+- Network forensics
+- Packet analysis
+- Indicators of Compromise (IOC) identification
+- Command-and-control (C2) traffic investigation
+- TCP stream analysis
+- Network traffic filtering
+- Incident investigation
+
+### Full Project Documentation
+
+Full documentation and screenshots are available in **Task 7 - MKCC-CS-060.pdf**
